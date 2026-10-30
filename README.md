@@ -1,20 +1,20 @@
-# YAKKL® Meridian™ and the Rhumb Workflow Protocol™
+# YAKKL® and the Rhumb Workflow Protocol™
 
 Hi,
 
 I'm currently working on a number of interesting products, but here is one:
 
-## YAKKL® Meridian™ *(Meridian)*
+## YAKKL®
 
-**YAKKL® Meridian™** is the reference implementation of `@rhumbprotocol`.
+**YAKKL®** is the reference implementation of `@rhumbprotocol`.
 
-Meridian is a complete AI orchestration, workflow, planning, and retention system that adheres to the open-source **Rhumb Workflow Protocol** at `@rhumbprotocol/specs`.
+YAKKL is a complete AI orchestration, workflow, planning, and retention system that adheres to the open-source **Rhumb Workflow Protocol** at `@rhumbprotocol/specs`.
 
-It performs automatic audits to enforce correct builds and verifies whether AI drift has occurred. AI drift is a major problem. When Meridian detects it, Meridian reports it and fixes it to get your creative vision back on track.
+It performs automatic audits to enforce correct builds and verifies whether AI drift has occurred. AI drift is a major problem. When YAKKL detects it, YAKKL reports it and fixes it to get your creative vision back on track.
 
-In addition, Meridian retains a full history of everything sent, received, and built. It also tags, indexes, and supports full-text search so that you can recall anything, including system prompts and personas you may have used.
+In addition, YAKKL retains a full history of everything sent, received, and built. It also tags, indexes, and supports full-text search so that you can recall anything, including system prompts and personas you may have used.
 
-Meridian was created to assist me in building a new generation of crypto products after I saw what appeared to be major shortfalls in security, UX, and more. I did not set out to build Meridian as a product. However, as I spoke to other leaders, they asked questions like these—not specifically about Meridian, but about methodologies, AI, and delivery:
+YAKKL was created to assist me in building a new generation of crypto products after I saw what appeared to be major shortfalls in security, UX, and more. I did not set out to build YAKKL as a product. However, as I spoke to other leaders, they asked questions like these—not specifically about YAKKL, but about methodologies, AI, and delivery:
 
 1. How many resources or teams were being used, and were they hand-coding or using AI?
 2. What timelines were required to build, test, document, and produce production-ready code based on complex architectures?
@@ -56,11 +56,11 @@ I spent three years in the AI, crypto, and security sectors running a multitude 
 
 If you are a solo developer or founder wanting to build the next best thing, it takes a lot of time and money.
 
-## How Meridian Started
+## How YAKKL Started
 
-Meridian almost formed itself by applying the above lessons to help build out other YAKKL products and projects.
+YAKKL almost formed itself by applying the above lessons to help build out other YAKKL products and projects.
 
-It started with MPs—**Master Plans**—where the real work gets created. Meridian uses established templates forged from the fires of pain and suffering caused by lost time and money.
+It started with MPs—**Master Plans**—where the real work gets created. YAKKL uses established templates forged from the fires of pain and suffering caused by lost time and money.
 
 Defining activity as accomplishment should be the AI tagline—kidding, sort of.
 
@@ -119,9 +119,9 @@ That worked a lot better—until it did not.
 
 So I started a rinse-and-repeat cycle, but added more controls. I found the sweet spot with good controls, governance, credentials, rules, and a lot more to keep projects and products on task and on course.
 
-## Meridian Was Born
+## YAKKL Was Born
 
-Meridian was born, and I used it to tackle complex crypto work, analysis, and more.
+YAKKL was born, and I used it to tackle complex crypto work, analysis, and more.
 
 I found that I needed a longer, more detailed process flow that created real software architecture artifacts. Plans from ideas or specs needed to be broken down into the smallest units of work. Models needed to be selected based on the actual needs of each unit of work, without me having to say:
 
@@ -150,33 +150,33 @@ A single ACS could be decomposed into small, medium, or large MPs, depending on 
 
 MPs are where code is generated. Architectural diagrams are created along the Architectural Path described earlier. Tests are created, sometimes in the high hundreds depending on complexity and the level of coverage desired. Documentation is created. Quality audits usually happen every third sub-phase or phase.
 
-Meridian then prints an audit report showing what was found and applies a score to it.
+YAKKL then prints an audit report showing what was found and applies a score to it.
 
-You can create another quick MP, handled internally since Meridian already has the data, to fix the issues. Then the primary thread that found the issues runs again with the fixes applied. Once verified, it moves on to the next phase and continues this cycle until the end.
+You can create another quick MP, handled internally since YAKKL already has the data, to fix the issues. Then the primary thread that found the issues runs again with the fixes applied. Once verified, it moves on to the next phase and continues this cycle until the end.
 
-At the end, Meridian runs a detailed final audit and verifies that the plan created the correct assets, artifacts, tests, documents, and other deliverables.
+At the end, YAKKL runs a detailed final audit and verifies that the plan created the correct assets, artifacts, tests, documents, and other deliverables.
 
-If successful, it creates a final handoff document that becomes the source of truth. That document goes into the evidence folder to represent what Meridian did compared to the plan, what was touched, and what was completed. Meridian then releases all locks.
+If successful, it creates a final handoff document that becomes the source of truth. That document goes into the evidence folder to represent what YAKKL did compared to the plan, what was touched, and what was completed. YAKKL then releases all locks.
 
-Meridian uses locking so no other process can run the same thing. If something has already been run, Meridian reports it so the process can move on to something else.
+YAKKL uses locking so no other process can run the same thing. If something has already been run, YAKKL reports it so the process can move on to something else.
 
 ## Direct Path vs. Architectural Path
 
-To be clear, Meridian supports a **Direct Path**, where it creates a small MP without involving the user so that the work is still fully documented.
+To be clear, YAKKL supports a **Direct Path**, where it creates a small MP without involving the user so that the work is still fully documented.
 
-If Meridian believes the task would be better served by the Architectural Path, based on the custom AI check it performs, it prompts the user and asks which path to take, including pros and cons.
+If YAKKL believes the task would be better served by the Architectural Path, based on the custom AI check it performs, it prompts the user and asks which path to take, including pros and cons.
 
-If the user only wants a super-fast and cheap response with little to no system prompt, Meridian can do that too. This is like running a normal chat without the overhead of the full system prompt.
+If the user only wants a super-fast and cheap response with little to no system prompt, YAKKL can do that too. This is like running a normal chat without the overhead of the full system prompt.
 
 By the way, AI CLIs and apps produce system prompts that can consume anywhere from 15,000 to 40,000 tokens before your one-sentence prompt is even included.
 
-Meridian lets you know this because, unlike AI CLIs, Meridian is not in business to sell more tokens. It is designed to do the opposite by reducing prompts through minification techniques, removing unnecessary previous context memory while keeping the same cache of system prompts, and avoiding the need to clear and recreate a new cache that spends more tokens.
+YAKKL lets you know this because, unlike AI CLIs, YAKKL is not in business to sell more tokens. It is designed to do the opposite by reducing prompts through minification techniques, removing unnecessary previous context memory while keeping the same cache of system prompts, and avoiding the need to clear and recreate a new cache that spends more tokens.
 
 ## Rhumb Workflow Protocol™ *(RWP™)*
 
 If you are interested, I broke out a lot of this into the **Rhumb Workflow Protocol™**—**RWP™**—so you can tie your apps, tools, reporting, and more into a true deterministic process and artifact system.
 
-RWP uses the same templates and process because Meridian is the full implementation and representative approach for RWP™.
+RWP uses the same templates and process because YAKKL is the full implementation and representative approach for RWP™.
 
 RWP is located at the `@rhumbprotocol` organization and at:
 
